@@ -1,2 +1,2 @@
-# news
-Repository-like news
+# News
+Repository-like news. Every commite - new piece of news.
