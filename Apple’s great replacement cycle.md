@@ -1,17 +1,16 @@
-#The pandemic has accelerated existing trends across the enterprise, spurring the adoption of remote work, hybrid workplaces, cloud services and the replacement of PCs in many companies with Macs and iPads.
+### The pandemic has accelerated existing trends across the enterprise, spurring the adoption of remote work, hybrid workplaces, cloud services and the replacement of PCs in many companies with Macs and iPads. ###
 
 Building new habits
-WhileApple leaders appear to be struggling to adapt to goal-based, rather than presence-focused, management styles, its products aren’t struggling much at all. Not only is interest in the iPhone 13 looking even stronger than that for the record-setting iPhone 12, but Apple has consistently grabbed 20%+ of the US PC market, according to Canalys, even as the overall market grew.
+While Apple leaders appear to be struggling to adapt to goal-based, rather than presence-focused, management styles, its products aren’t struggling much at all. Not only is interest in the iPhone 13 looking even stronger than that for the record-setting iPhone 12, but Apple has consistently grabbed 20%+ of the US PC market, according to Canalys, even as the overall market grew.
 
 The iPad (which Canalys includes within its market share data) has also become a viable machine for work, as noted by analyst Trang Pham: “Tablets are no longer just devices for entertainment, but have emerged as cheaper alternatives to PCs for remote working and  learning.”
 
-[ Further reading: How to use AirDrop with iOS and macOS ]
-“It is clear now that pandemic-related use cases will extend well into the future,” said Brian Lynch, Research Analyst at Canalys. “This points toward a significant refresh opportunity in the future — fantastic news for PC vendors and their channel and ecosystem partners. The commercial and education segments have exploded, triggering tremendous refresh potential."
+*“It is clear now that pandemic-related use cases will extend well into the future,”* said Brian Lynch, Research Analyst at Canalys. *“This points toward a significant refresh opportunity in the future — fantastic news for PC vendors and their channel and ecosystem partners. The commercial and education segments have exploded, triggering tremendous refresh potential."*
 
 
 These trends aren’t new, but the pandemic has accelerated them.
 
-"Now that people have gotten a taste of working from home, they will want to continue doing it. We think that this will become part of the new normal,” Jamf CEO Dean Hager predicted in mid-2020.
+*"Now that people have gotten a taste of working from home, they will want to continue doing it. We think that this will become part of the new normal,”* Jamf CEO Dean Hager predicted in mid-2020.
 
 That change in what people want from work, along with the recent resurgence of COVID-19, means many firms will now firm up existing plans to support hybrid working. This will also solidify existing purchasing patterns around mobility.
 
